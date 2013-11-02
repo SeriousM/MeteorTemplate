@@ -2,7 +2,7 @@
 
 just clone this repository and you're good to start!
 
-Included [Atmosphere][1] Packages: `iron-router`, `npm`, `observatory`, `bootstrap-3`
+Included [Atmosphere][1] Packages: `iron-router`, `npm`, `observatory`, `bootstrap-3`, `font-awesome`
 
 Included css: `normalize-v2.1.3.css`
 
